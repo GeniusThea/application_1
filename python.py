@@ -1,0 +1,1 @@
+print("I am Beautiful but it is the truth")
